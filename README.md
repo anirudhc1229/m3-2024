@@ -1,3 +1,5 @@
+This year's challenge tasked us with modeling the US's homelessness crisis. To this end, we leveraged Gaussian processes and covariance matrices.
+
 Gaussian Processes code adapted from:
 “Time series forecasting with Gaussian Processes needs priors"
 Giorgio Corani, Alessio Benavoli, Marco Zaffalon
